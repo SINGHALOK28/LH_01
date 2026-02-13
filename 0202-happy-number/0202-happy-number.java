@@ -1,28 +1,30 @@
 class Solution {
-    public int calcSq(int x) {
-        int sq = 0;
-
-        while (x != 0) {
-            int rem = x % 10;
-            sq = sq + (rem * rem);
-            x = x / 10;
+    public boolean isHappy(int n) {
+        int slow = square(n);
+        int fast = square(square(n));
+        if(slow==1) return true;
+        while(slow!=fast)
+        {
+            slow = square(slow);
+            fast = square(square(fast));
+            if(slow==1 || fast==1)
+            {
+                return true;
+            }
         }
-        return sq;
+    return false;
     }
 
-    boolean isHappy(int n) {
-        int slow = n;
-        int fast = n;
-
-        slow = calcSq(n);
-        fast = calcSq(calcSq(n));
-        while (slow != fast)
+        public int square(int num)
         {
-
-            slow = calcSq(slow);
-            fast = calcSq(calcSq(fast));
-
+            int ans=0;
+            while(num>0)
+            {
+                int x = num%10;
+                ans += x*x;
+                num = num/10;
+            }
+        return ans;
         }
-        return slow == 1;
-}
-}
+
+};
