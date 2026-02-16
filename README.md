@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SINGHALOK28/LH_01/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SINGHALOK28/LH_01/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/SINGHALOK28/LH_01/tree/master/0209-minimum-size-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/SINGHALOK28/LH_01/tree/master/0724-find-pivot-index) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SINGHALOK28/LH_01/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
 |  |
@@ -61,4 +62,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/SINGHALOK28/LH_01/tree/master/0209-minimum-size-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/SINGHALOK28/LH_01/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
