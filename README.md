@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SINGHALOK28/LH_01/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/SINGHALOK28/LH_01/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/SINGHALOK28/LH_01/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/SINGHALOK28/LH_01/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/SINGHALOK28/LH_01/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/SINGHALOK28/LH_01/tree/master/0904-fruit-into-baskets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SINGHALOK28/LH_01/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/SINGHALOK28/LH_01/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SINGHALOK28/LH_01/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/SINGHALOK28/LH_01/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/SINGHALOK28/LH_01/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/SINGHALOK28/LH_01/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
 |  |
