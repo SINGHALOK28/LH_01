@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/SINGHALOK28/LH_01/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/SINGHALOK28/LH_01/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/SINGHALOK28/LH_01/tree/master/0724-find-pivot-index) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/SINGHALOK28/LH_01/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0904-fruit-into-baskets](https://github.com/SINGHALOK28/LH_01/tree/master/0904-fruit-into-baskets) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/SINGHALOK28/LH_01/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SINGHALOK28/LH_01/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/SINGHALOK28/LH_01/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/SINGHALOK28/LH_01/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/SINGHALOK28/LH_01/tree/master/0268-missing-number) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/SINGHALOK28/LH_01/tree/master/0747-largest-number-at-least-twice-of-others) |
 ## Bit Manipulation
 |  |
 | ------- |
