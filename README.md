@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/SINGHALOK28/LH_01/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/SINGHALOK28/LH_01/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SINGHALOK28/LH_01/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/SINGHALOK28/LH_01/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/SINGHALOK28/LH_01/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SINGHALOK28/LH_01/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/SINGHALOK28/LH_01/tree/master/0209-minimum-size-subarray-sum) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/SINGHALOK28/LH_01/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/SINGHALOK28/LH_01/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SINGHALOK28/LH_01/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/SINGHALOK28/LH_01/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/SINGHALOK28/LH_01/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/SINGHALOK28/LH_01/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SINGHALOK28/LH_01/tree/master/0142-linked-list-cycle-ii) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/SINGHALOK28/LH_01/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/SINGHALOK28/LH_01/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/SINGHALOK28/LH_01/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/SINGHALOK28/LH_01/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/SINGHALOK28/LH_01/tree/master/0268-missing-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/SINGHALOK28/LH_01/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/SINGHALOK28/LH_01/tree/master/0905-sort-array-by-parity) |
