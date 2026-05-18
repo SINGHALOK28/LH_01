@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/SINGHALOK28/LH_01/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/SINGHALOK28/LH_01/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/SINGHALOK28/LH_01/tree/master/0977-squares-of-a-sorted-array) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/SINGHALOK28/LH_01/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/SINGHALOK28/LH_01/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SINGHALOK28/LH_01/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SINGHALOK28/LH_01/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
