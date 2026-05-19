@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/SINGHALOK28/LH_01/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/SINGHALOK28/LH_01/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/SINGHALOK28/LH_01/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/SINGHALOK28/LH_01/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/SINGHALOK28/LH_01/tree/master/0977-squares-of-a-sorted-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/SINGHALOK28/LH_01/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/SINGHALOK28/LH_01/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SINGHALOK28/LH_01/tree/master/0268-missing-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/SINGHALOK28/LH_01/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/SINGHALOK28/LH_01/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/SINGHALOK28/LH_01/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/SINGHALOK28/LH_01/tree/master/0977-squares-of-a-sorted-array) |
 ## Bit Manipulation
 |  |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SINGHALOK28/LH_01/tree/master/0053-maximum-subarray) |
+| [0912-sort-an-array](https://github.com/SINGHALOK28/LH_01/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -190,4 +193,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3174-clear-digits](https://github.com/SINGHALOK28/LH_01/tree/master/3174-clear-digits) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/SINGHALOK28/LH_01/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/SINGHALOK28/LH_01/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/SINGHALOK28/LH_01/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/SINGHALOK28/LH_01/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/SINGHALOK28/LH_01/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
