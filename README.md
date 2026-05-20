@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/SINGHALOK28/LH_01/tree/master/0387-first-unique-character-in-a-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SINGHALOK28/LH_01/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/SINGHALOK28/LH_01/tree/master/1189-maximum-number-of-balloons) |
+| [1796-second-largest-digit-in-a-string](https://github.com/SINGHALOK28/LH_01/tree/master/1796-second-largest-digit-in-a-string) |
 | [2678-number-of-senior-citizens](https://github.com/SINGHALOK28/LH_01/tree/master/2678-number-of-senior-citizens) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/SINGHALOK28/LH_01/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [3174-clear-digits](https://github.com/SINGHALOK28/LH_01/tree/master/3174-clear-digits) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/SINGHALOK28/LH_01/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/SINGHALOK28/LH_01/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/SINGHALOK28/LH_01/tree/master/1189-maximum-number-of-balloons) |
+| [1796-second-largest-digit-in-a-string](https://github.com/SINGHALOK28/LH_01/tree/master/1796-second-largest-digit-in-a-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SINGHALOK28/LH_01/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Math
 |  |
