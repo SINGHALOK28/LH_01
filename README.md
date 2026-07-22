@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SINGHALOK28/LH_01/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SINGHALOK28/LH_01/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2678-number-of-senior-citizens](https://github.com/SINGHALOK28/LH_01/tree/master/2678-number-of-senior-citizens) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SINGHALOK28/LH_01/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Two Pointers
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/SINGHALOK28/LH_01/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/SINGHALOK28/LH_01/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/SINGHALOK28/LH_01/tree/master/0977-squares-of-a-sorted-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SINGHALOK28/LH_01/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Greedy
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/SINGHALOK28/LH_01/tree/master/0349-intersection-of-two-arrays) |
 | [0658-find-k-closest-elements](https://github.com/SINGHALOK28/LH_01/tree/master/0658-find-k-closest-elements) |
 | [0875-koko-eating-bananas](https://github.com/SINGHALOK28/LH_01/tree/master/0875-koko-eating-bananas) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SINGHALOK28/LH_01/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## String
 |  |
 | ------- |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/SINGHALOK28/LH_01/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/SINGHALOK28/LH_01/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/SINGHALOK28/LH_01/tree/master/0977-squares-of-a-sorted-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SINGHALOK28/LH_01/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |
