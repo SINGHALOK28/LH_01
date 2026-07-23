@@ -22,7 +22,6 @@ public:
 
             if(target==total)
             return res_sum;
-
             if(target>total)
             left++;
             else
