@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/SINGHALOK28/LH_01/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/SINGHALOK28/LH_01/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/SINGHALOK28/LH_01/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/SINGHALOK28/LH_01/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SINGHALOK28/LH_01/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/SINGHALOK28/LH_01/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/SINGHALOK28/LH_01/tree/master/0118-pascals-triangle) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/SINGHALOK28/LH_01/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/SINGHALOK28/LH_01/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SINGHALOK28/LH_01/tree/master/0287-find-the-duplicate-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/SINGHALOK28/LH_01/tree/master/0779-k-th-symbol-in-grammar) |
@@ -306,4 +308,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/SINGHALOK28/LH_01/tree/master/0973-k-closest-points-to-origin) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/SINGHALOK28/LH_01/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
