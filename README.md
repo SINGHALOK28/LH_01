@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/SINGHALOK28/LH_01/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/SINGHALOK28/LH_01/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/SINGHALOK28/LH_01/tree/master/0268-missing-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/SINGHALOK28/LH_01/tree/master/0779-k-th-symbol-in-grammar) |
 | [0973-k-closest-points-to-origin](https://github.com/SINGHALOK28/LH_01/tree/master/0973-k-closest-points-to-origin) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SINGHALOK28/LH_01/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2119-a-number-after-a-double-reversal](https://github.com/SINGHALOK28/LH_01/tree/master/2119-a-number-after-a-double-reversal) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/SINGHALOK28/LH_01/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SINGHALOK28/LH_01/tree/master/0287-find-the-duplicate-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/SINGHALOK28/LH_01/tree/master/0779-k-th-symbol-in-grammar) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/SINGHALOK28/LH_01/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/SINGHALOK28/LH_01/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/SINGHALOK28/LH_01/tree/master/0234-palindrome-linked-list) |
+| [0779-k-th-symbol-in-grammar](https://github.com/SINGHALOK28/LH_01/tree/master/0779-k-th-symbol-in-grammar) |
 ## Simulation
 |  |
 | ------- |
