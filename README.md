@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/SINGHALOK28/LH_01/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/SINGHALOK28/LH_01/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/SINGHALOK28/LH_01/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/SINGHALOK28/LH_01/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SINGHALOK28/LH_01/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/SINGHALOK28/LH_01/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/SINGHALOK28/LH_01/tree/master/0118-pascals-triangle) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/SINGHALOK28/LH_01/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/SINGHALOK28/LH_01/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/SINGHALOK28/LH_01/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/SINGHALOK28/LH_01/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/SINGHALOK28/LH_01/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/SINGHALOK28/LH_01/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/SINGHALOK28/LH_01/tree/master/0242-valid-anagram) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/SINGHALOK28/LH_01/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/SINGHALOK28/LH_01/tree/master/0079-word-search) |
 ## Geometry
 |  |
 | ------- |
@@ -315,8 +318,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/SINGHALOK28/LH_01/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/SINGHALOK28/LH_01/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/SINGHALOK28/LH_01/tree/master/0079-word-search) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/SINGHALOK28/LH_01/tree/master/0022-generate-parentheses) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/SINGHALOK28/LH_01/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
