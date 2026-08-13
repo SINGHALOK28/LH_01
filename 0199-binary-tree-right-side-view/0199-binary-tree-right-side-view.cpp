@@ -11,30 +11,48 @@
  */
 class Solution {
 public:
-    vector<int> rightSideView(TreeNode* root) {
-        if(root==NULL) return {};
-        queue<TreeNode*> q; 
-        q.push(root);
 
-        vector<int> result;
+    void dfs(TreeNode* root,int level,vector<int>& result){
+        if(root==NULL) return;
 
-        while(!q.empty()){
-            int levelSize=q.size();
-            TreeNode* temp;
-
-            while(levelSize--){
-                temp=q.front();
-                q.pop();
-
-                if(temp->left!=NULL){
-                    q.push(temp->left);
-                }
-                if(temp->right!=NULL){
-                    q.push(temp->right);
-                }
-            }
-         result.push_back(temp->val);
+        if(result.size()<level){
+            result.push_back(root->val);
         }
+        dfs(root->right,level+1,result);
+        dfs(root->left,level+1,result);
+
+    }
+    vector<int> rightSideView(TreeNode* root) {
+
+        vector<int>result;
+        dfs(root,1,result);
         return result;
+
+
+
+        // if(root==NULL) return {};
+        // queue<TreeNode*> q; 
+        // q.push(root);
+
+        // vector<int> result;
+
+        // while(!q.empty()){
+        //     int levelSize=q.size();
+        //     TreeNode* temp;
+
+        //     while(levelSize--){
+        //         temp=q.front();
+        //         q.pop();
+
+        //         if(temp->left!=NULL){
+        //             q.push(temp->left);
+        //         }
+        //         if(temp->right!=NULL){
+        //             q.push(temp->right);
+        //         }
+        //     }
+        //  result.push_back(temp->val);
+        // }
+        // return result;
     }
 };
