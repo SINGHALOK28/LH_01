@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SINGHALOK28/LH_01/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SINGHALOK28/LH_01/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SINGHALOK28/LH_01/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/SINGHALOK28/LH_01/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Two Pointers
 |  |
 | ------- |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SINGHALOK28/LH_01/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SINGHALOK28/LH_01/tree/master/0287-find-the-duplicate-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/SINGHALOK28/LH_01/tree/master/0779-k-th-symbol-in-grammar) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/SINGHALOK28/LH_01/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Divide and Conquer
 |  |
 | ------- |
