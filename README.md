@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/SINGHALOK28/LH_01/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/SINGHALOK28/LH_01/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SINGHALOK28/LH_01/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0455-assign-cookies](https://github.com/SINGHALOK28/LH_01/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/SINGHALOK28/LH_01/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/SINGHALOK28/LH_01/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/SINGHALOK28/LH_01/tree/master/0658-find-k-closest-elements) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/SINGHALOK28/LH_01/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SINGHALOK28/LH_01/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/SINGHALOK28/LH_01/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/SINGHALOK28/LH_01/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/SINGHALOK28/LH_01/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/SINGHALOK28/LH_01/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/SINGHALOK28/LH_01/tree/master/0876-middle-of-the-linked-list) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/SINGHALOK28/LH_01/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/SINGHALOK28/LH_01/tree/master/0055-jump-game) |
+| [0455-assign-cookies](https://github.com/SINGHALOK28/LH_01/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/SINGHALOK28/LH_01/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/SINGHALOK28/LH_01/tree/master/0860-lemonade-change) |
 ## Binary Search
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/SINGHALOK28/LH_01/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SINGHALOK28/LH_01/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/SINGHALOK28/LH_01/tree/master/0451-sort-characters-by-frequency) |
+| [0455-assign-cookies](https://github.com/SINGHALOK28/LH_01/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/SINGHALOK28/LH_01/tree/master/0658-find-k-closest-elements) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/SINGHALOK28/LH_01/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/SINGHALOK28/LH_01/tree/master/0905-sort-array-by-parity) |
@@ -411,4 +415,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/SINGHALOK28/LH_01/tree/master/0700-search-in-a-binary-search-tree) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/SINGHALOK28/LH_01/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
