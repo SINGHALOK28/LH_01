@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/SINGHALOK28/LH_01/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/SINGHALOK28/LH_01/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/SINGHALOK28/LH_01/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/SINGHALOK28/LH_01/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/SINGHALOK28/LH_01/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/SINGHALOK28/LH_01/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/SINGHALOK28/LH_01/tree/master/0075-sort-colors) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/SINGHALOK28/LH_01/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/SINGHALOK28/LH_01/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/SINGHALOK28/LH_01/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/SINGHALOK28/LH_01/tree/master/0063-unique-paths-ii) |
 | [0118-pascals-triangle](https://github.com/SINGHALOK28/LH_01/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/SINGHALOK28/LH_01/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/SINGHALOK28/LH_01/tree/master/0213-house-robber-ii) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/SINGHALOK28/LH_01/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/SINGHALOK28/LH_01/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/SINGHALOK28/LH_01/tree/master/0079-word-search) |
 ## Geometry
