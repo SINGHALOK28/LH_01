@@ -5,7 +5,7 @@ public:
             return 0;
         }
         if(i >= cost.size()){
-            return 1e9;   
+            return 1e97;   
         }
         if(dp[i][n] != -1){
             return dp[i][n];
