@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/SINGHALOK28/LH_01/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SINGHALOK28/LH_01/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/SINGHALOK28/LH_01/tree/master/0118-pascals-triangle) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/SINGHALOK28/LH_01/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/SINGHALOK28/LH_01/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/SINGHALOK28/LH_01/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/SINGHALOK28/LH_01/tree/master/0300-longest-increasing-subsequence) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/SINGHALOK28/LH_01/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SINGHALOK28/LH_01/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/SINGHALOK28/LH_01/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/SINGHALOK28/LH_01/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SINGHALOK28/LH_01/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SINGHALOK28/LH_01/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/SINGHALOK28/LH_01/tree/master/0199-binary-tree-right-side-view) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/SINGHALOK28/LH_01/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SINGHALOK28/LH_01/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/SINGHALOK28/LH_01/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/SINGHALOK28/LH_01/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SINGHALOK28/LH_01/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SINGHALOK28/LH_01/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/SINGHALOK28/LH_01/tree/master/0199-binary-tree-right-side-view) |
@@ -412,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/SINGHALOK28/LH_01/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SINGHALOK28/LH_01/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/SINGHALOK28/LH_01/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/SINGHALOK28/LH_01/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SINGHALOK28/LH_01/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SINGHALOK28/LH_01/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/SINGHALOK28/LH_01/tree/master/0199-binary-tree-right-side-view) |
@@ -472,5 +476,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/SINGHALOK28/LH_01/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/SINGHALOK28/LH_01/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
