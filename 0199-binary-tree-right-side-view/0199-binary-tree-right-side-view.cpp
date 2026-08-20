@@ -15,7 +15,7 @@ public:
     void dfs(TreeNode* root,int level,vector<int>& result){
         if(root==NULL) return;
 
-        if(result.size()<level){
+        if(result.size()==level){
             result.push_back(root->val);
         }
         dfs(root->right,level+1,result);
@@ -25,7 +25,7 @@ public:
     vector<int> rightSideView(TreeNode* root) {
 
         vector<int>result;
-        dfs(root,1,result);
+        dfs(root,0,result);
         return result;
 
 
