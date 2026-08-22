@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/SINGHALOK28/LH_01/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SINGHALOK28/LH_01/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/SINGHALOK28/LH_01/tree/master/0088-merge-sorted-array) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SINGHALOK28/LH_01/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/SINGHALOK28/LH_01/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/SINGHALOK28/LH_01/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SINGHALOK28/LH_01/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/SINGHALOK28/LH_01/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SINGHALOK28/LH_01/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/SINGHALOK28/LH_01/tree/master/0013-roman-to-integer) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SINGHALOK28/LH_01/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/SINGHALOK28/LH_01/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/SINGHALOK28/LH_01/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/SINGHALOK28/LH_01/tree/master/0202-happy-number) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SINGHALOK28/LH_01/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SINGHALOK28/LH_01/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SINGHALOK28/LH_01/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/SINGHALOK28/LH_01/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/SINGHALOK28/LH_01/tree/master/0912-sort-an-array) |
@@ -401,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/SINGHALOK28/LH_01/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/SINGHALOK28/LH_01/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SINGHALOK28/LH_01/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SINGHALOK28/LH_01/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/SINGHALOK28/LH_01/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SINGHALOK28/LH_01/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/SINGHALOK28/LH_01/tree/master/0112-path-sum) |
@@ -425,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/SINGHALOK28/LH_01/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/SINGHALOK28/LH_01/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SINGHALOK28/LH_01/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SINGHALOK28/LH_01/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/SINGHALOK28/LH_01/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SINGHALOK28/LH_01/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/SINGHALOK28/LH_01/tree/master/0112-path-sum) |
