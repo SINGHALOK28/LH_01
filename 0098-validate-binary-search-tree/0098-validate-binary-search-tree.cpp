@@ -11,31 +11,18 @@
  */
 class Solution {
 public:
-TreeNode* prev=nullptr;
-bool ans = true;
-void inorder(TreeNode* root){
-    if(root == nullptr) return;
-
-    inorder(root->left);
-   // res.push_back(root->val);
-   if(prev == nullptr){
-    prev=root;
-   }
-   else{
-        if(root->val <= prev->val)
-            ans=false;
-            prev=root;
-   }
-    inorder(root->right);
-
-    return;
-}
+TreeNode* prev = nullptr;
     bool isValidBST(TreeNode* root) {
-        inorder(root);
-    //    for(int i=0;i<res.size()-2;i++){
-    //         if(res[i+1]<res[i]) 
-    //         { ans=false; }
-    //     }
-        return ans;
+        if(root == nullptr) return true;
+
+        if(!isValidBST(root->left))
+            return false;
+
+        if(prev != nullptr && prev->val >= root->val)
+         return false;
+
+        prev = root;
+
+    return isValidBST(root->right);
     }
 };
