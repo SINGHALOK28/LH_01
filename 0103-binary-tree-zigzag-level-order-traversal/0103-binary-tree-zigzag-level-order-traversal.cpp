@@ -12,49 +12,41 @@
 class Solution {
 public:
 vector<vector<int>> result;
+bool flag=true;
 
 void solve(TreeNode* root){
-    queue<TreeNode*> q;
-    q.push(root);
 
-    //changes for variations
-    bool left2right=1;
-    
-    if (root == NULL)
-            return;
+    queue<TreeNode*> q;  //Queue banayenge
+        q.push(root);
+
+    if(root == nullptr) return;
+
     while(!q.empty()){
-        int levelsize=q.size();
-    //    vector<int>temp;
-    vector<int> temp(levelsize);  // you to initaialze the vector size here
-    //changes for variations
-    int first=0;
-    int last=levelsize-1;
 
-        while(levelsize--){
-            TreeNode* t=q.front();
-            q.pop();
+       int levelsize = q.size();
+       vector<int>temp;
 
-    //changes for variations
-            //temp.push_back(t->val); it will get commented 
-            if(left2right==1){
-                temp[first]=t->val;
-                first++;
-            }
-            else{
-                temp[last]=t->val;
-                last--;
-            }
+       while(levelsize--){
+            TreeNode* t = q.front();
+                q.pop();
+            // if()
+            temp.push_back(t->val);
 
-             if(t->left != NULL)
+            if(t->left != NULL)
                 q.push(t->left);
             if(t->right!=NULL)
                 q.push(t->right);
-        }
+       }
+       if(flag==true)
         result.push_back(temp);
-        left2right=1-left2right;
-            }
+       else if (flag==false)
+        {
+            reverse(temp.begin(),temp.end());
+            result.push_back(temp);
+        }
+        flag = !flag;
+    }
     return;
-
 }
     vector<vector<int>> zigzagLevelOrder(TreeNode* root) {
         solve(root);
