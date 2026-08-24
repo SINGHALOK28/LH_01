@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/SINGHALOK28/LH_01/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/SINGHALOK28/LH_01/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SINGHALOK28/LH_01/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/SINGHALOK28/LH_01/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SINGHALOK28/LH_01/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2678-number-of-senior-citizens](https://github.com/SINGHALOK28/LH_01/tree/master/2678-number-of-senior-citizens) |
 | [2742-painting-the-walls](https://github.com/SINGHALOK28/LH_01/tree/master/2742-painting-the-walls) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/SINGHALOK28/LH_01/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/SINGHALOK28/LH_01/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/SINGHALOK28/LH_01/tree/master/0860-lemonade-change) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/SINGHALOK28/LH_01/tree/master/1962-remove-stones-to-minimize-the-total) |
 ## Binary Search
 |  |
 | ------- |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/SINGHALOK28/LH_01/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/SINGHALOK28/LH_01/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/SINGHALOK28/LH_01/tree/master/0973-k-closest-points-to-origin) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/SINGHALOK28/LH_01/tree/master/1962-remove-stones-to-minimize-the-total) |
 ## Merge Sort
 |  |
 | ------- |
