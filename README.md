@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/SINGHALOK28/LH_01/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SINGHALOK28/LH_01/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/SINGHALOK28/LH_01/tree/master/1962-remove-stones-to-minimize-the-total) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/SINGHALOK28/LH_01/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SINGHALOK28/LH_01/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2678-number-of-senior-citizens](https://github.com/SINGHALOK28/LH_01/tree/master/2678-number-of-senior-citizens) |
 | [2742-painting-the-walls](https://github.com/SINGHALOK28/LH_01/tree/master/2742-painting-the-walls) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/SINGHALOK28/LH_01/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/SINGHALOK28/LH_01/tree/master/1189-maximum-number-of-balloons) |
 | [1796-second-largest-digit-in-a-string](https://github.com/SINGHALOK28/LH_01/tree/master/1796-second-largest-digit-in-a-string) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/SINGHALOK28/LH_01/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SINGHALOK28/LH_01/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SINGHALOK28/LH_01/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SINGHALOK28/LH_01/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/SINGHALOK28/LH_01/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/SINGHALOK28/LH_01/tree/master/0451-sort-characters-by-frequency) |
 | [1189-maximum-number-of-balloons](https://github.com/SINGHALOK28/LH_01/tree/master/1189-maximum-number-of-balloons) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/SINGHALOK28/LH_01/tree/master/2341-maximum-number-of-pairs-in-array) |
 ## Recursion
 |  |
 | ------- |
