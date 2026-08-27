@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/SINGHALOK28/LH_01/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SINGHALOK28/LH_01/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/SINGHALOK28/LH_01/tree/master/0455-assign-cookies) |
+| [0463-island-perimeter](https://github.com/SINGHALOK28/LH_01/tree/master/0463-island-perimeter) |
 | [0560-subarray-sum-equals-k](https://github.com/SINGHALOK28/LH_01/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/SINGHALOK28/LH_01/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/SINGHALOK28/LH_01/tree/master/0658-find-k-closest-elements) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/SINGHALOK28/LH_01/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/SINGHALOK28/LH_01/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/SINGHALOK28/LH_01/tree/master/0079-word-search) |
+| [0463-island-perimeter](https://github.com/SINGHALOK28/LH_01/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/SINGHALOK28/LH_01/tree/master/0733-flood-fill) |
 ## Geometry
 |  |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/SINGHALOK28/LH_01/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SINGHALOK28/LH_01/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SINGHALOK28/LH_01/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0463-island-perimeter](https://github.com/SINGHALOK28/LH_01/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/SINGHALOK28/LH_01/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SINGHALOK28/LH_01/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/SINGHALOK28/LH_01/tree/master/0733-flood-fill) |
@@ -485,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/SINGHALOK28/LH_01/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/SINGHALOK28/LH_01/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/SINGHALOK28/LH_01/tree/master/0199-binary-tree-right-side-view) |
+| [0463-island-perimeter](https://github.com/SINGHALOK28/LH_01/tree/master/0463-island-perimeter) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SINGHALOK28/LH_01/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/SINGHALOK28/LH_01/tree/master/0733-flood-fill) |
 ## Binary Lifting
