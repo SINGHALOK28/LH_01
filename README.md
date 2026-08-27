@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/SINGHALOK28/LH_01/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/SINGHALOK28/LH_01/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/SINGHALOK28/LH_01/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/SINGHALOK28/LH_01/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/SINGHALOK28/LH_01/tree/master/0451-sort-characters-by-frequency) |
 | [0680-valid-palindrome-ii](https://github.com/SINGHALOK28/LH_01/tree/master/0680-valid-palindrome-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SINGHALOK28/LH_01/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/SINGHALOK28/LH_01/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/SINGHALOK28/LH_01/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/SINGHALOK28/LH_01/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/SINGHALOK28/LH_01/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SINGHALOK28/LH_01/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/SINGHALOK28/LH_01/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/SINGHALOK28/LH_01/tree/master/0560-subarray-sum-equals-k) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SINGHALOK28/LH_01/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/SINGHALOK28/LH_01/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/SINGHALOK28/LH_01/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/SINGHALOK28/LH_01/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SINGHALOK28/LH_01/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/SINGHALOK28/LH_01/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/SINGHALOK28/LH_01/tree/master/0455-assign-cookies) |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/SINGHALOK28/LH_01/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/SINGHALOK28/LH_01/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/SINGHALOK28/LH_01/tree/master/0287-find-the-duplicate-number) |
+| [0389-find-the-difference](https://github.com/SINGHALOK28/LH_01/tree/master/0389-find-the-difference) |
 | [0779-k-th-symbol-in-grammar](https://github.com/SINGHALOK28/LH_01/tree/master/0779-k-th-symbol-in-grammar) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/SINGHALOK28/LH_01/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Divide and Conquer
