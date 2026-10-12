@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/SINGHALOK28/LH_01/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/SINGHALOK28/LH_01/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/SINGHALOK28/LH_01/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/SINGHALOK28/LH_01/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/SINGHALOK28/LH_01/tree/master/0451-sort-characters-by-frequency) |
 | [0680-valid-palindrome-ii](https://github.com/SINGHALOK28/LH_01/tree/master/0680-valid-palindrome-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SINGHALOK28/LH_01/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/SINGHALOK28/LH_01/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/SINGHALOK28/LH_01/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/SINGHALOK28/LH_01/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/SINGHALOK28/LH_01/tree/master/0412-fizz-buzz) |
 | [0779-k-th-symbol-in-grammar](https://github.com/SINGHALOK28/LH_01/tree/master/0779-k-th-symbol-in-grammar) |
 | [0973-k-closest-points-to-origin](https://github.com/SINGHALOK28/LH_01/tree/master/0973-k-closest-points-to-origin) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SINGHALOK28/LH_01/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/SINGHALOK28/LH_01/tree/master/0412-fizz-buzz) |
 | [3174-clear-digits](https://github.com/SINGHALOK28/LH_01/tree/master/3174-clear-digits) |
 ## Heap (Priority Queue)
 |  |
