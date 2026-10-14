@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/SINGHALOK28/LH_01/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/SINGHALOK28/LH_01/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/SINGHALOK28/LH_01/tree/master/0658-find-k-closest-elements) |
+| [0704-binary-search](https://github.com/SINGHALOK28/LH_01/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/SINGHALOK28/LH_01/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/SINGHALOK28/LH_01/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/SINGHALOK28/LH_01/tree/master/0746-min-cost-climbing-stairs) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/SINGHALOK28/LH_01/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/SINGHALOK28/LH_01/tree/master/0349-intersection-of-two-arrays) |
 | [0658-find-k-closest-elements](https://github.com/SINGHALOK28/LH_01/tree/master/0658-find-k-closest-elements) |
+| [0704-binary-search](https://github.com/SINGHALOK28/LH_01/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/SINGHALOK28/LH_01/tree/master/0875-koko-eating-bananas) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SINGHALOK28/LH_01/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## String
