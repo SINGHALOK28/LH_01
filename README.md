@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/SINGHALOK28/LH_01/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/SINGHALOK28/LH_01/tree/master/0977-squares-of-a-sorted-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/SINGHALOK28/LH_01/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1480-running-sum-of-1d-array](https://github.com/SINGHALOK28/LH_01/tree/master/1480-running-sum-of-1d-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/SINGHALOK28/LH_01/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SINGHALOK28/LH_01/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/SINGHALOK28/LH_01/tree/master/1962-remove-stones-to-minimize-the-total) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/SINGHALOK28/LH_01/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/SINGHALOK28/LH_01/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/SINGHALOK28/LH_01/tree/master/0724-find-pivot-index) |
+| [1480-running-sum-of-1d-array](https://github.com/SINGHALOK28/LH_01/tree/master/1480-running-sum-of-1d-array) |
 | [3903-smallest-stable-index-i](https://github.com/SINGHALOK28/LH_01/tree/master/3903-smallest-stable-index-i) |
 ## Sorting
 |  |
