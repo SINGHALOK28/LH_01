@@ -1,33 +1,35 @@
 class Solution {
 public:
-    vector<vector<int>> threeSum(vector<int>& nums) {
-    
-     vector<vector<int>> result;   
-     int n = nums.size();
-     sort(nums.begin(), nums.end());
-     for(int i=0;i<n-2;i++)
-     {
-        if (i > 0 && nums[i] == nums[i - 1]) continue;
-        int left = i+1;
-        int right = n-1;
-        int sum = -1*nums[i];
-        while(left<right)
-        {
-            int target = nums[left]+nums[right];
-            if(target==sum)
-            {
-                result.push_back({nums[i], nums[left], nums[right]});
-                left++;
-                right--;
-                while(left<n && nums[left]==nums[left-1]) {left++;}
-                while(right>=0 && nums[right]==nums[right+1]) {right--;}
+    vector<vector<int>>res;
+
+    void twosum(vector<int>&nums,int target, int i, int j){
+            while(i<j){
+                if(nums[i]+nums[j] < target) i++;
+                else if (nums[i]+ nums[j]> target) j--;
+                else{
+                    while(i<j && nums[i]==nums[i+1]) i++;
+                    while(i<j && nums[j]==nums[j-1]) j--;
+                    res.push_back({-target,nums[i],nums[j]});
+                    i++;
+                    j--;
+                }
             }
-            else if(target<sum)
-            {left++;} 
-            else 
-            {right--;}
+    }
+
+    vector<vector<int>> threeSum(vector<int>& nums) {
+        int n = nums.size();
+        sort(nums.begin(),nums.end());
+        if(n<3) return {};
+
+        for(int i=0;i<n-2;i++){
+            if(i>0 && nums[i]==nums[i-1])   //handle n1 duplicates
+                continue;
+            int n1=nums[i];
+            int target=-n1;
+
+            twosum(nums,target,i+1,n-1);
+
         }
-     }   
-      return result;
+        return res;
     }
 };
