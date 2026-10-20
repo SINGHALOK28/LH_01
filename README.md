@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/SINGHALOK28/LH_01/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/SINGHALOK28/LH_01/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/SINGHALOK28/LH_01/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/SINGHALOK28/LH_01/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/SINGHALOK28/LH_01/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/SINGHALOK28/LH_01/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/SINGHALOK28/LH_01/tree/master/0904-fruit-into-baskets) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/SINGHALOK28/LH_01/tree/master/0349-intersection-of-two-arrays) |
 | [0658-find-k-closest-elements](https://github.com/SINGHALOK28/LH_01/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/SINGHALOK28/LH_01/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/SINGHALOK28/LH_01/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/SINGHALOK28/LH_01/tree/master/0875-koko-eating-bananas) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SINGHALOK28/LH_01/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## String
@@ -588,4 +590,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0607-sales-person](https://github.com/SINGHALOK28/LH_01/tree/master/0607-sales-person) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/SINGHALOK28/LH_01/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [3436-find-valid-emails](https://github.com/SINGHALOK28/LH_01/tree/master/3436-find-valid-emails) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/SINGHALOK28/LH_01/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
