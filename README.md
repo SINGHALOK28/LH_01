@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/SINGHALOK28/LH_01/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/SINGHALOK28/LH_01/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/SINGHALOK28/LH_01/tree/master/0977-squares-of-a-sorted-array) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/SINGHALOK28/LH_01/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/SINGHALOK28/LH_01/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1480-running-sum-of-1d-array](https://github.com/SINGHALOK28/LH_01/tree/master/1480-running-sum-of-1d-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/SINGHALOK28/LH_01/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/SINGHALOK28/LH_01/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SINGHALOK28/LH_01/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0904-fruit-into-baskets](https://github.com/SINGHALOK28/LH_01/tree/master/0904-fruit-into-baskets) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/SINGHALOK28/LH_01/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1189-maximum-number-of-balloons](https://github.com/SINGHALOK28/LH_01/tree/master/1189-maximum-number-of-balloons) |
 | [1796-second-largest-digit-in-a-string](https://github.com/SINGHALOK28/LH_01/tree/master/1796-second-largest-digit-in-a-string) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/SINGHALOK28/LH_01/tree/master/2341-maximum-number-of-pairs-in-array) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/SINGHALOK28/LH_01/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/SINGHALOK28/LH_01/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/SINGHALOK28/LH_01/tree/master/0724-find-pivot-index) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/SINGHALOK28/LH_01/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1480-running-sum-of-1d-array](https://github.com/SINGHALOK28/LH_01/tree/master/1480-running-sum-of-1d-array) |
 | [3903-smallest-stable-index-i](https://github.com/SINGHALOK28/LH_01/tree/master/3903-smallest-stable-index-i) |
 ## Sorting
@@ -398,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/SINGHALOK28/LH_01/tree/master/0079-word-search) |
 | [0463-island-perimeter](https://github.com/SINGHALOK28/LH_01/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/SINGHALOK28/LH_01/tree/master/0733-flood-fill) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/SINGHALOK28/LH_01/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 ## Geometry
 |  |
 | ------- |
